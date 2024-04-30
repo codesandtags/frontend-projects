@@ -1,0 +1,6 @@
+# Ensure do not send any Figma file
+.fig
+
+node_modules
+.env
+.log
