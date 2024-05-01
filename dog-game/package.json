@@ -1,7 +1,18 @@
 {
   "name": "dog-game",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "keywords": [
+    "game",
+    "react",
+    "typescript",
+    "vite",
+    "eslint"
+  ],
+  "author": {
+    "name": "Edwin Torres",
+    "email": "codesandtags@gmail.com"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
