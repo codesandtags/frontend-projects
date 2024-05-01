@@ -40,9 +40,9 @@ export function gameReducer(state: GameState, action: GameAction): GameState {
         newDogPosition.y === bonePosition.y
       ) {
         // Dog found the bone
-        playSound("/sounds/dog-bark.mp3");
+        playSound("./sounds/dog-bark.mp3");
         if (state.score % 5 === 0 && state.score > 0) {
-          playSound("/sounds/level-up.mp3");
+          playSound("./sounds/level-up.mp3");
         }
         return {
           ...state,
