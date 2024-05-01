@@ -7,4 +7,4 @@ The inspiration for these projects comes from [Greatfrontend](https://www.greatf
 ## Projects
 
 1. [Blog Card](./blog-card)
-2. [Dog Game](./dog-game)
+2. [Dog Game](./dog-game/demo/)
