@@ -1,0 +1,8 @@
+.board-game {
+  width: 100%;
+  max-width: 350px;
+  margin: 30px auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+}
