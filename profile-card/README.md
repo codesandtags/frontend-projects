@@ -2,7 +2,7 @@
 
 # GreatFrontEnd Projects Challenge
 
-Welcome to the GreatFrontEnd Projects platform! Join our [Discord server](https://www.greatfrontend.com/community) and get support from our community ranging from new developers to senior engineers from big tech companies!
+Welcome to the GreatFrontEnd Projects platform! Join our [Discord server](https://www.greatfrontend.com/community?fpr=edwin28) and get support from our community ranging from new developers to senior engineers from big tech companies!
 
 This is a starter template for your challenge.
 
@@ -53,7 +53,7 @@ For each challenge, we provide the following assets:
 - **Images**: If the challenge uses some images such as illustrations, logos, etc, they will be provided in the `img` directory.
 - **Icons**: Icons can be found on [Remix Icon](https://remixicon.com/).
 
-For the best (and realistic) experience, we recommend developing while referencing the challenge's Figma file. If the challenge is free or you have a [GreatFrontEnd Projects Premium](https://greatfrontend.com/projects/pricing) subscription, you'd be able to download the challenge's `.fig` Figma file, which will allow you to emulate developers at work – inspecting high fidelity designs and diving into each element's properties like colors, font sizes, spacing, etc.
+For the best (and realistic) experience, we recommend developing while referencing the challenge's Figma file. If the challenge is free or you have a [GreatFrontEnd Projects Premium](https://greatfrontend.com/projects/pricing?fpr=edwin28) subscription, you'd be able to download the challenge's `.fig` Figma file, which will allow you to emulate developers at work – inspecting high fidelity designs and diving into each element's properties like colors, font sizes, spacing, etc.
 
 ### Using Figma files
 
@@ -100,7 +100,7 @@ It is common to get stuck while working on a challenge especially when it touche
 
 1. **Read the provided guides**: Our guides contain common problems people faced for the challenge and we offer resources and solutions to unblock yourself.
 2. **Leverage the challenge forum**: Use the "Discussions" tab for the challenge to either look at questions asked by others or ask your own question.
-3. **GreatFrontEnd community**: Join the [Discord community](https://www.greatfrontend.com/community) and get real-time support from the community.
+3. **GreatFrontEnd community**: Join the [Discord community](https://www.greatfrontend.com/community?fpr=edwin28) and get real-time support from the community.
 4. **[ChatGPT](https://chat.openai.com/)**: ChatGPT is great for answering common and introductory level questions. You can even send your code to ChatGPT for it to comment on.
 
 ## Completing
