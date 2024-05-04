@@ -29,3 +29,7 @@ body {
   margin: auto;
   padding: 12px;
 }
+
+.folder-container {
+  width: 360px;
+}

@@ -35,7 +35,7 @@ export default function Folder({ folder }: FolderProps) {
         {folderIcon} {folder.name}
       </div>
       {isOpen && (
-        <div style={{ paddingLeft: "20px" }}>
+        <div className="files">
           {folder.subFolders.map((subFolder) => (
             <Folder key={subFolder.id} folder={subFolder} />
           ))}

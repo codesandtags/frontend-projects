@@ -1,17 +1,29 @@
 .folder,
 .file {
   cursor: pointer;
-  padding: 2px 4px;
-  display: inline-block;
+  padding: 4px 4px;
+  display: flex;
+  flex-direction: column;
 }
 
 .folder {
-  padding-left: 10px;
+  padding-left: 20px;
   font-weight: 600;
+}
+
+.file {
+  padding-left: 20px;
 }
 
 .folder:hover,
 .file:hover {
   background-color: #333;
   color: #fff;
+  border-radius: 15px;
+}
+
+.files {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
 }
