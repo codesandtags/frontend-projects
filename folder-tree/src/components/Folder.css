@@ -2,6 +2,7 @@
 .file {
   cursor: pointer;
   padding: 2px 4px;
+  display: inline-block;
 }
 
 .folder {
