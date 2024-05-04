@@ -1,30 +1,11 @@
-# React + TypeScript + Vite
+# Folder Tree
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple folder tree that displays a list of folders and files. The tree is built using `React` and `TypeScript`. The tree is expandable and collapsible, and it displays the folder structure in a hierarchical manner.
 
-Currently, two official plugins are available:
+## Implementation considerations
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The folder tree is built using a recursive component that renders the folder structure. The component receives a list of folders and files as props and renders the folder structure accordingly. The component uses `React` hooks to manage the state of the tree and to handle the expand and collapse functionality.
 
-## Expanding the ESLint configuration
+## Demo
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+You can play the game [here](https://www.codesandtags.io/frontend-projects/folder-tree/demo/).

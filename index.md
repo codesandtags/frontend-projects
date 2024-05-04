@@ -13,3 +13,7 @@ The inspiration for these projects comes from [Greatfrontend](https://www.greatf
 
 1. [Dog Game](./dog-game/demo/)
 2. [Tic Tac Toe](./tic-tac-toe-game/demo/)
+
+## Navigation
+
+1. [Folder Tree](./folder-tree/demo/)
