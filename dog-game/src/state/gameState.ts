@@ -18,8 +18,8 @@ export function generateRandomPosition(gridSize: number): Position {
 }
 
 export const initialGameState: GameState = {
-  gridSize: 10,
-  dogPosition: generateRandomPosition(8),
-  bonePosition: generateRandomPosition(8),
+  gridSize: 6,
+  dogPosition: generateRandomPosition(6),
+  bonePosition: generateRandomPosition(6),
   score: 0,
 };
