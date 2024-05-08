@@ -1,0 +1,27 @@
+.building {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: #f0f0f0;
+  color: #333;
+  position: relative;
+}
+
+.building__information {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  border-bottom: 1px solid #ccc;
+}
+
+.floor {
+  width: 100%;
+  height: 50px;
+  padding: 5px 10px;
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  justify-content: space-between;
+}

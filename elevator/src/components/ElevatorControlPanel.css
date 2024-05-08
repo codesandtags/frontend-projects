@@ -1,0 +1,18 @@
+.elevator-control-panel {
+  padding: 10px;
+  display: flex;
+}
+
+.elevator-control-panel button {
+  margin: 0 5px;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  width: 100px;
+  border-radius: 15px;
+}
+
+.elevator-control-panel button:hover {
+  background-color: #333;
+  color: #fff;
+}
