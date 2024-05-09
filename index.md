@@ -13,6 +13,7 @@ Marketing components that can be reused to showcase products or services.
 1. [Blog Card](./blog-card/)
 2. [Profile Card](./profile-card/)
 3. [Testimonial Card](./testimonial-card/)
+4. [Hero Section Simple](./hero-section-simple/)
 
 ### Design System
 
